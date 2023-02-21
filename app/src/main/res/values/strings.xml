@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Study</string>
+    <string name="set_study_alarm">Set Study Alarm</string>
+    <string name="set_rest_alarm">Set Rest Alarm</string>
+    <string name="set_rest_windows_alarm">Set Rest Window (min 10m)</string>
+    <string name="set_repeating_rest_alarm">Set Repeating Rest Alarm</string>
+    <string name="set">Set</string>
+    <string name="clear">Clear</string>
+    <string name="stop_alarm">Stop Alarm</string>
+
+</resources>
